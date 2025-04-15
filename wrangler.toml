@@ -1,0 +1,8 @@
+name = "book2latt"
+main = "src/index.ts"
+compatibility_date = "2025-04-11"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "book2latt-db"
+database_id = "1d46bee2-32e5-48f3-bcb6-bcb2dcf8bc3f"
